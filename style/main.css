@@ -43,6 +43,11 @@ header nav a:hover{
     color:#fff;
 }
 
+.nav-link {
+    font-size: 15px;
+  }
+  
+
 /*filme principal*/
 .filme-principal{
    
